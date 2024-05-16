@@ -1,6 +1,6 @@
 variable "aws_region" {
   type        = string
-  description = "AWS access key"
+  description = "AWS region"
 }
 
 variable "access_key" {
